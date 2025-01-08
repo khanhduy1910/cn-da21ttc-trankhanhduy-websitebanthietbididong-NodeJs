@@ -5,7 +5,7 @@ Trần Khánh Duy-110121150-DA21TTC
 # Hướng dẫn cài đặt thư viện hỗ trợ đề tài (frontend & backend)
 <h5>Vào terminal và thực hiện</h5>
 Chú ý: Nhấn các lệnh theo tuần tự
-........
+```
 npm install (thư mục gốc - chứa hai thư mục frontend và backend)
 cd frontend
 npm install
